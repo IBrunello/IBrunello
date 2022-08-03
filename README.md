@@ -14,3 +14,5 @@ Si estás interesad@ en mí ¡Contáctame!
 Dirección de correo : ignaciobrunello26@gmail.com
 
 Número telefónico : +543515633261
+
+Linkedin:https://www.linkedin.com/in/ignacio-brunello-184749209/
