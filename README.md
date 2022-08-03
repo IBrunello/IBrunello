@@ -1,5 +1,5 @@
 ¡Hi there!👋
-<span>HOLA<span/>
+
 I'm Ignacio Brunello, junior Full-Stack developer, oriented to Back-End, with capacity for problem resolution and teamwork.
 
 🎓Experience:
