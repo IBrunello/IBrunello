@@ -10,7 +10,7 @@ I'm Ignacio Brunello, junior Full-Stack developer, oriented to Back-End, with ca
 
 👨‍💻Technologies
 
-<img src="https://dev-to-uploads.s3.amazonaws.com/i/grki97glctbmjydzqejw.png" alt="Not found" style="display: inline-block; margin: 0 auto; width:100px"/>
+<img src="https://reactjs.org/logo-og.png" alt="Not found" style="display: inline-block; margin: 0 auto; width:100px"/>
 
 If you are interested, contact me!
 
