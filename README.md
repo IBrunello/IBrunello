@@ -10,8 +10,7 @@ I'm Ignacio Brunello, junior Full-Stack developer, oriented to Back-End, with ca
 
 👨‍💻Technologies
 
-<img src="https://reactjs.org/logo-og.png" alt="Not found" style="display: inline-block; margin: 0 auto; width:100px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Not found" style="display: inline-block; margin: 0 auto; width:60px"/>
+<img src="https://reactjs.org/logo-og.png" alt="Not found" style="display: inline-block; margin: 0 auto; width:100px"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Not found" style="display: inline-block; margin: 0 auto; width:60px"/><img src="https://digital55.com/wp-content/uploads/2022/01/Cuando_y_por_que_debo_usar_redux_en_mis_proyectos_frontend.jpg" alt="Not found" style="display: inline-block; margin: 0 auto; width:100px"/>
 
 If you are interested, contact me!
 
