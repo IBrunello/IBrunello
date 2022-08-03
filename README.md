@@ -1,18 +1,15 @@
-¡Hola!👋
+¡Hi there!👋
 
-Soy Ignacio Brunello, desarrollador web júnior Full-Stack, con orientación al Back-End, con capacidades para la resolución de errores y trabajo en equipo.
+I'm Ignacio Brunello, junior Full-Stack developer, oriented to Back-End, with capacity for problem resolution and teamwork.
 
-🎓Mi experiencia:
+🎓Experience:
 
-🔹Siendo un recién graduado del bootcamp de Henry, cuento con mas de 700 horas de trabajo teórico-práctico en las especialidades que ofrezco.
+🔹Since I finished Henry's bootcamp, I have more than 700 hours of teorical-practical work on the specialtys I offer.
 
-🔹Soy estudiante de ingeniería en computación desde hace dos años, de los cuales pude obtener muchos conocimientos que no se enseñan en los bootcamps, tales como 
-algoritmos, álgebra, análisis matemático, entre otros.
+🔹I'm also a college student since 2021, so I've adquired knowlege that bootcamps do not offer, like algorithms, algebra, math analysis, among others.
 
-Si estás interesad@ en mí ¡Contáctame!
+If you are interested, contact me!
 
-Dirección de correo : ignaciobrunello26@gmail.com
+Email adress : ignaciobrunello26@gmail.com
 
-Número telefónico : +543515633261
-
-Linkedin:https://www.linkedin.com/in/ignacio-brunello-184749209/
+Phone number : +543515633261
